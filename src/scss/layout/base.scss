@@ -7,15 +7,7 @@
 	font-family: "游ゴシック体", YuGothic, "游ゴシック", "Yu Gothic", sans-serif;
 
 }
-@font-face {
-	font-family: 'Lemon/Milk';
-  /*   上記で効かない場合は下記をお試しください。 */
-	src:
-	  url('../fonts/Cinzel-VariableFont_wght.otf') format('opentype'),
-	  url('../fonts/Fonts/Futura.ttc') format('opentype'),
-	  url('../fonts/Fonts/Helvetica.ttc') format('opentype'),
-	  url('../fonts/Fonts/NotoSerifJP-Bold.otf') format('opentype');
-  }
+
 body {
 	color: $baseColor;
 }
